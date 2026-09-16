@@ -1,50 +1,54 @@
-## 👋 Walace da Costa Santos
+# 👋 Walace da Costa Santos
 
-## 🧠 About Me
+## 🎓 Sobre Mim
 
-I'm a Computer Science student focused on building my career in Data Engineering and Software Engineering.
+Sou estudante de Ciência da Computação, com foco no desenvolvimento da minha carreira em Engenharia de Dados e Engenharia de Software.
 
-Currently, I'm developing my skills in Python and SQL through courses, studies, and practical projects.
+Atualmente, estou desenvolvendo minhas habilidades em Python e SQL por meio de estudos, cursos e projetos práticos.
 
-My GitHub documents my learning journey through projects that apply the concepts I'm learning and progressively increase in complexity.
+Tenho interesse em programação, bancos de dados, análise e tratamento de dados, buscando desenvolver uma base sólida para atuar profissionalmente na área de tecnologia.
 
-## ⚙️ Technologies & Skills
+## ⚙️ Tecnologias e Habilidades
 
-## 🐍 Programming
+### 🐍 Programação
 - Python
 
-## 🗄️ Databases
+### 🗄️ Bancos de Dados
 - SQL
 - MySQL
 - PostgreSQL
+- SQLite
 
-## 🛠️ Tools
+### 🛠️ Ferramentas
 - Git
 - GitHub
 - PyCharm
 
-## 🚀 Projects
+## 🚀 Projetos
 
-## 🧮 Sales Calculator in Python
+### 📊 Análise de Gastos Pessoais com Python e SQL
 
-Project developed to practice programming logic, user input, calculations, and conditional structures using Python.
+Projeto desenvolvido para praticar integração com API, manipulação de dados com Python, armazenamento em SQLite e consultas SQL.
 
-**Technology:** Python
+**Tecnologias:** Python • SQL • SQLite • Requests
 
-🔗 [View Project](https://github.com/Walace-da-Costa-Santos/python-sales-calculator
-)
+[Ver projeto](https://github.com/Walace-da-Costa-Santos/analise-gastos-python-sql)
 
----
+### 🧮 Calculadora de Vendas em Python
 
-### 🩸 Blood Donor Registration
+Projeto desenvolvido para praticar lógica de programação, entrada de dados, cálculos e estruturas condicionais utilizando Python.
 
-Project developed during my Python studies to practice user input, type conversion, calculations, and programming logic.
+**Tecnologia:** Python
 
-**Technology:** Python
+[Ver projeto](https://github.com/Walace-da-Costa-Santos/python-sales-calculator)
 
-🔗 [View Project](https://github.com/Walace-da-Costa-Santos/cadastro-doadores-sangue-python)
+### 🩸 Cadastro de Doadores de Sangue em Python
 
----
+Projeto desenvolvido para praticar estruturas condicionais, entrada de dados e lógica de programação utilizando Python.
+
+**Tecnologia:** Python
+
+[Ver projeto](https://github.com/Walace-da-Costa-Santos/cadastro-doadores-sangue-python)
 
 ## 📫 Connect With Me
 

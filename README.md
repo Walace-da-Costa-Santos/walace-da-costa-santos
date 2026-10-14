@@ -14,10 +14,7 @@ Tenho interesse em programação, bancos de dados, análise e tratamento de dado
 - Python
 
 ### 🗄️ Bancos de Dados
-- SQL
-- MySQL
-- PostgreSQL
-- SQLite
+- SQ
 
 ### 🛠️ Ferramentas
 - Git
@@ -50,7 +47,7 @@ Projeto desenvolvido para praticar estruturas condicionais, entrada de dados e l
 
 [Ver projeto](https://github.com/Walace-da-Costa-Santos/cadastro-doadores-sangue-python)
 
-## 📫 Connect With Me
+## 📫 Contato
 
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)
 

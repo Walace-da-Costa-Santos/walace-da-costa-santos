@@ -3,7 +3,7 @@
 🎓 Estudante de Ciência da Computação | Python • SQL  
 💼 Interesse em Engenharia de Dados e Engenharia de Software  
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
-📧 [walaceecosta03@gmail.com]
+📧 walaceecosta03@gmail.com
 
 ## 🎓 Sobre mim
 

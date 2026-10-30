@@ -1,54 +1,40 @@
 # 👋 Walace da Costa Santos
 
-## 🎓 Sobre Mim
+🎓 Estudante de Ciência da Computação | Python • SQL  
+💼 Interesse em Engenharia de Dados e Engenharia de Software  
+🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
+📧 [walaceecosta03@gmail.com]
 
-Sou estudante de Ciência da Computação, com foco no desenvolvimento da minha carreira em Engenharia de Dados e Engenharia de Software.
+## 🎓 Sobre mim
 
-Atualmente, estou desenvolvendo minhas habilidades em Python e SQL por meio de estudos, cursos e projetos práticos.
+Sou estudante de **Ciência da Computação**, com interesse em **Engenharia de Dados e Engenharia de Software**.
 
-Tenho interesse em programação, bancos de dados, análise e tratamento de dados, buscando desenvolver uma base sólida para atuar profissionalmente na área de tecnologia.
+Atualmente, desenvolvo minha base técnica em **Python e SQL** por meio de estudos, cursos e projetos práticos, com foco em programação, bancos de dados e manipulação de dados.
 
-## ⚙️ Tecnologias e Habilidades
+Busco minha primeira oportunidade na área de tecnologia para continuar aprendendo e aplicar esses conhecimentos em desafios reais.
 
-### 🐍 Programação
-- Python
+## ⚙️ Tecnologias
 
-### 🗄️ Bancos de Dados
-- SQ
-
-### 🛠️ Ferramentas
-- Git
-- GitHub
-- PyCharm
+**Programação:** Python  
+**Banco de Dados:** SQL • SQLite  
+**Ferramentas:** Git • GitHub • PyCharm
 
 ## 🚀 Projetos
 
+### 💳 SmartPOS — Sistema de Vendas com Python e SQL
+
+Sistema de vendas com pagamentos simulados, armazenamento em SQLite, consultas SQL, relatórios e análise de indicadores.
+
+**Tecnologias:** Python • SQL • SQLite
+
+[Ver projeto](https://github.com/Walace-da-Costa-Santos/smartpos-python-sql)
+
 ### 📊 Análise de Gastos Pessoais com Python e SQL
 
-Projeto desenvolvido para praticar integração com API, manipulação de dados com Python, armazenamento em SQLite e consultas SQL.
+Aplicação para coleta e tratamento de dados, armazenamento em SQLite e análise de gastos por meio de consultas SQL.
 
 **Tecnologias:** Python • SQL • SQLite • Requests
 
 [Ver projeto](https://github.com/Walace-da-Costa-Santos/analise-gastos-python-sql)
 
-### 🧮 Calculadora de Vendas em Python
 
-Projeto desenvolvido para praticar lógica de programação, entrada de dados, cálculos e estruturas condicionais utilizando Python.
-
-**Tecnologia:** Python
-
-[Ver projeto](https://github.com/Walace-da-Costa-Santos/python-sales-calculator)
-
-### 🩸 Cadastro de Doadores de Sangue em Python
-
-Projeto desenvolvido para praticar estruturas condicionais, entrada de dados e lógica de programação utilizando Python.
-
-**Tecnologia:** Python
-
-[Ver projeto](https://github.com/Walace-da-Costa-Santos/cadastro-doadores-sangue-python)
-
-## 📫 Contato
-
-🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)
-
-📧 walaceecosta03@gmail.com

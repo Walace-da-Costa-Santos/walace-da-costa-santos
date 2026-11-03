@@ -33,7 +33,7 @@ O projeto também possui o SmartPOS Insights, funcionalidade que integra a Gemin
 
 Tecnologias: Python • SQL • SQLite • Gemini API
 
-[Ver projeto](https://github.com/Walace-da-Costa-Santos/smartpos-python-sql-ia)
+[Ver projeto](https://github.com/Walace-da-Costa-Santos/smartpos-python-sql)
 
 ---
 

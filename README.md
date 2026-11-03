@@ -1,22 +1,5 @@
 # 👋 Walace da Costa Santos
 
-🎓 Estudante de Ciência da Computação | Python • SQL  
-💼 Interesse em Engenharia de Dados e Engenharia de Software  
-🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
-📧 [walaceecosta03@gmail.com](mailto:walaceecosta03@gmail.com)
-
-## 🎓 Sobre mim
-
-Sou estudante de **Ciência da Computação**, com interesse em construir minha carreira em **Engenharia de Dados e Engenharia de Software**.
-
-Atualmente, desenvolvo minhas habilidades em **Python e SQL** por meio de estudos e projetos práticos, aplicando conceitos de programação, bancos de dados e resolução de problemas.
-
-Também venho explorando aplicações de **IA e LLMs** em projetos práticos, incluindo integração de modelos de linguagem com Python para análise de dados.
-
-Busco uma oportunidade de estágio onde eu possa adquirir experiência prática, contribuir com projetos reais e continuar evoluindo profissionalmente na área de tecnologia.
-
-## ⚙️ Tecnologias# 👋 Walace da Costa Santos
-
 🎓 Estudante de Ciência da Computação | Python • SQL | Seeking Internship  
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
 📧 [walaceecosta03@gmail.com](mailto:walaceecosta03@gmail.com)

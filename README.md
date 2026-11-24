@@ -1,6 +1,6 @@
 # 👋 Walace da Costa Santos
 
-🎓 Estudante de Ciência da Computação | Python • SQL | Seeking Internship  
+🎓 Computer Science Student | Java • Spring Boot • SQL • Python  | Seeking Internship
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
 📧 [walaceecosta03@gmail.com](mailto:walaceecosta03@gmail.com)
 
@@ -8,18 +8,18 @@
 
 Sou estudante de Ciência da Computação e venho desenvolvendo minha formação técnica por meio de estudos, cursos e projetos práticos.
 
-Atualmente, desenvolvo minhas habilidades em Python e SQL, aplicando conceitos de programação, bancos de dados, análise de dados e resolução de problemas.
-
+Atualmente, aprimoro meus conhecimentos em Java, Python e SQL, aplicando conceitos de programação, bancos de dados e análise de dados para resolver problemas práticos.
 Também venho explorando a integração de IA e LLMs em aplicações Python, buscando entender como essas tecnologias podem ser utilizadas em soluções práticas.
 
 Busco uma oportunidade de estágio que me permita continuar aprendendo, ganhar experiência prática e crescer profissionalmente na área de tecnologia.
 
 ## ⚙️ Tecnologias
 
-Programação: Python  
-Banco de Dados: SQL • SQLite  
-IA aplicada: Gemini API • Integração com LLMs  
-Ferramentas: Git • GitHub • PyCharm
+Programação: Java • Python
+Frameworks: Spring Boot
+Banco de dados: SQL 
+IA aplicada: Gemini API • Integração com LLMs
+Ferramentas: Git • GitHub • IntelliJ IDEA • PyCharm
 
 ## 🚀 Projetos
 

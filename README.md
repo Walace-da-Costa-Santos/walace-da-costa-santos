@@ -8,12 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação e venho desenvolvendo minha formação técnica por meio de estudos, cursos e projetos práticos.
-
-Atualmente, aprimoro meus conhecimentos em Java, Python e SQL, aplicando conceitos de programação, bancos de dados e análise de dados para resolver problemas práticos.
-Também venho explorando a integração de IA e LLMs em aplicações Python, buscando entender como essas tecnologias podem ser utilizadas em soluções práticas.
-
-Busco uma oportunidade de estágio que me permita continuar aprendendo, ganhar experiência prática e crescer profissionalmente na área de tecnologia.
+Sou estudante de Ciência da Computação e busco estágio em desenvolvimento back-end com Java. Pratico lógica de programação e programação orientada a objetos em Java e uso Python e SQL em projetos pessoais que envolvem integração com APIs REST e consultas em banco de dados.
 
 ## ⚙️ Tecnologias
 

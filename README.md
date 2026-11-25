@@ -1,6 +1,6 @@
 # 👋 Walace da Costa Santos
 
-🎓 Computer Science Student | Java • SQL • Python  | Seeking Internship
+🎓 Computer Science Student | Seeking a Software Development Internship | Java • SQL • Python
 
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
 

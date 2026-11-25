@@ -1,6 +1,6 @@
 # 👋 Walace da Costa Santos
 
-🎓 Computer Science Student | Java • Spring Boot • SQL • Python  | Seeking Internship
+🎓 Computer Science Student | Java • SQL • Python  | Seeking Internship
 
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)  
 
@@ -8,19 +8,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação e busco estágio em desenvolvimento back-end com Java. Pratico lógica de programação e programação orientada a objetos em Java e uso Python e SQL em projetos pessoais que envolvem integração com APIs REST e consultas em banco de dados.
+Sou estudante de Ciência da Computação e gosto de entender como uma aplicação funciona, da lógica do código à forma como ela se comunica com outros sistemas e armazena dados. Venho aprofundando minha base em Java e programação orientada a objetos, estudando Spring Boot e usando Python e SQL para integrar APIs REST e trabalhar com bancos de dados. Busco um estágio em desenvolvimento de software, com interesse em back-end. Quero colocar em prática o que venho aprendendo, entender como um time desenvolve e mantém aplicações no dia a dia e contribuir para as entregas enquanto evoluo como desenvolvedor.
 
 ## ⚙️ Tecnologias
 
 Programação: Java • Python
 
-Frameworks: Spring Boot
-
 Banco de dados: SQL 
-
-IA aplicada: Gemini API • Integração com LLMs
-
-Ferramentas: Git • GitHub • IntelliJ IDEA • PyCharm
 
 ## 🚀 Projetos
 
